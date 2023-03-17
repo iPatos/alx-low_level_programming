@@ -1,8 +1,7 @@
 #iclude<stdio.h>
 /**
- * main - Entry point
- * 
- * Return: Always 0 (Success)
+ * main - main entry point
+ * return: Always 0 (Success)
  */
 int main(void)
 {
