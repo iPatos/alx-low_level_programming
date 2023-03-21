@@ -2,6 +2,7 @@
 
 /**
  * main - Entry point
+ * Description: print _putchar to stdout
  * Return Always 0
  */
 
@@ -18,5 +19,4 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-
 }
