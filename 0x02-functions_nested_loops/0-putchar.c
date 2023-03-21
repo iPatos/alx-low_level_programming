@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Description: 'print _putchar to stdout'
- * Return Always 0
+ * main - Entry _putchar
+ * written by iPatos
+ * Return: 0
  */
 
 int main(void)
