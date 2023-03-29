@@ -9,3 +9,4 @@ char *cap_string(char *);
 int _strcmp(char *s1, char *s2);
 char *leet(char *);
 char *rot13(char *);
+void print_number(int n);
