@@ -1,5 +1,5 @@
 #include "main.h"
-#include "stdio"
+#include <stdlib.h>
 /**
  * main - program print received ard
  * @argc: nbr of comm
